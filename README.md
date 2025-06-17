@@ -50,8 +50,8 @@ A API implementa as operações **CRUD** (Criar, Ler, Atualizar, Apagar) para o 
 Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/MatheusSantos285/javalin-todo-api.git
+cd javalin-todo-api/App
 
 ```
 Execute a aplicação (o Gradle Wrapper está incluído):
